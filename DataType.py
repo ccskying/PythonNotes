@@ -1,4 +1,5 @@
 # python3中有6个标准数据类型：数字，字符串，列表，元组，集合，字典
+# python3 has 6 variables: number, string, list, tuple, set, dictionary
 # 数字分int float bool complex
 # 在python中，bool是一个单独的数据类型
 
@@ -72,6 +73,9 @@ print("\n\nlist\n")
 
 lst = ['abcd', 786, 2.23, 'runoob', 70.2]
 tinylist = [123, 'runoob']
+#create a lista = [1,2]
+lista = []
+lista.append(2)
 
 print(lst)  # 输出完整列表
 print(lst[0])  # 输出列表第一个元素
