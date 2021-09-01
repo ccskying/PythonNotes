@@ -1,4 +1,5 @@
 # I like this solution, it is clear and beautiful
+from itertools import groupby
 class Solution(object):
     def isLongPressedName(self, name, typed):
         """
